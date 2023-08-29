@@ -1,5 +1,4 @@
 import requests
-import json
 
 def fetch_languages(repo_url):
     # Replace {owner} and {repo} with the repository's owner and name
